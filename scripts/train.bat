@@ -1,0 +1,1 @@
+python ./train.py -ft ./assets/train.csv -fv ./assets/fold.csv -e 1000 -bt 64 -bv 1
