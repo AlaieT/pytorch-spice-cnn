@@ -20,8 +20,9 @@ The predictions obtained from the neural network model were compared with the re
 
 ### Example
 
-![](./docs/prediction.png)
-![](./docs/real.png)
+APU - real             |  APU - prediction
+:-------------------------:|:-------------------------:
+![](./docs/result.png)  |  ![](./docs/prediction.png)
 
 ## Repository Contents
 - `utils` - project utils like as models, reader and e.t.c
@@ -76,4 +77,13 @@ Where:
 - -s --scaler - path to dataset scaler file (creates during train)
 - -m --model - path to model file
 
+## Contribution
+
+Contributions to this project are welcome and appreciated. If you find any issues, have suggestions for improvements, or want to add new features, please feel free to submit a pull request.
+
+Please ensure that your contributions align with the project's coding style and follow best practices. Also, make sure to test your changes thoroughly before submitting a pull request.
+
+## License
+
+This project is licensed under the MIT License. Feel free to use and modify the code for your own purposes.
 
